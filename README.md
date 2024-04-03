@@ -12,6 +12,14 @@ A multi-vendor marketplace platform build on top if Django and Django Rest Frame
 - One-click deployment: supporting the top cloud provider in less than 1 minute with or without docker.
 - Fully automated catalogue acquisition: delight your vendors with hands-off product catalogue loading from any of their existing online stores at no additional costs. Just collect their store URLs, and let them watch their catalogue being automatically populated on your platform. No more manual data entry for them.
 
-BONUS: 
-- Artificial Intelligence: integrate AI capabilities ranging from language, vision to generative and instruct models with no extra configs. Use the built-in API to select models and perform inference on the fly. Supporting both CPU and GPU based compute.
-- Specialised vector databases from the most reputed providers. Choose from a list of free open source as well as propriotary software.
+## The AI bit
+- One-click model integration: enable AI capabilities ranging from language, vision to generative and instruct models with no extra configs. Use the built-in API to select models and perform inference on the fly.
+- Supporting both CPU and GPU based compute.
+- Specialized scalable databases: incorporate vector databases from the most reputed providers. Choose from a list of free open source as well as propriotary software.
+
+# Benefits of the AI layer
+- Customer support
+- Product asset classification including text and media
+- Analytics and reporting
+- Recommendations
+And much more..
