@@ -1,5 +1,5 @@
 # Django-AI-marketplace
-A multi-vendor marketplace platform build on top of Django and Django Rest Framework.
+The complete AI powered multi-vendor marketplace platform.
 
 🚧 Under development. Star ⭐️ and follow to receive the freshest updates.
 
