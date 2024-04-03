@@ -10,7 +10,7 @@ A multi-vendor marketplace platform build on top of Django and Django Rest Frame
 - Automatic compliant taxes: charge VAT, sales and applicable taxes out of the box on behalf of your platform and your platform's customers.
 - Permissionned-Dashboard: fine-tune dashboard access to assets (products, order data..) with no-code from your superuser control centrr.
 - One-click deployment: supporting the top cloud provider in less than 1 minute with or without docker.
-- Fully automated catalogue acquisition: delight your vendors with hands-off product catalogue loading from any of their existing online stores at no additional costs. Just collect their store URLs, and let them watch their products being automatically populated on your platform. No more manual data entry for them.
+- Fully automated catalogue acquisition: delight your vendors with hands-off product catalogue loading from any of their existing online stores at no additional costs. Just collect their store URLs, and let them watch their products automatically populated on your platform. No more manual data entry for them.
 
 ## The AI bit
 - One-click model integration: enable AI capabilities ranging from language, vision to generative and instruct models with no extra configs. Use the built-in API to select models and perform inference on the fly.
