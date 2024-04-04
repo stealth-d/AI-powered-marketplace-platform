@@ -1,4 +1,4 @@
-# Django-AI-marketplace
+# Duket Link
 The complete AI powered multi-vendor marketplace platform.
 
 🚧 Under development. Star ⭐️ and follow to receive the freshest updates.
