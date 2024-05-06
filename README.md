@@ -1,7 +1,7 @@
 # Duket Link
 The complete AI powered multi-vendor marketplace platform.
 
-🚧 Under development. Star ⭐️ and follow to receive the freshest updates.
+🚧 Under development
 
 # Features
 - Payments: supporting major providers. Control what payment methods are enabled for your customers.
