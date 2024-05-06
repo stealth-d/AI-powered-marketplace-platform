@@ -1,4 +1,4 @@
-# Duket Link
+# Duket
 The complete AI powered multi-vendor marketplace platform.
 
 🚧 Under development
