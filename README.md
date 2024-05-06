@@ -1,7 +1,6 @@
 # Duket
 The complete AI powered multi-vendor marketplace platform.
 
-🚧 Under development
 
 # Features
 - Payments: supporting major providers. Control what payment methods are enabled for your customers.
