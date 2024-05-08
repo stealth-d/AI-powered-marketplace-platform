@@ -12,6 +12,7 @@ The complete AI powered multi-vendor marketplace platform.
 - Cross-platform: your buyers can reach your marketplace on the web and natively on Android and IOS.
 - One-click deployment: supporting the top cloud providers.
 - Fully automated catalogue acquisition: delight your vendors with hands-off product catalogue loading from any of their existing online stores at no additional costs. Just collect their store URLs, and watch their products automatically populated on your platform. No more manual data entry.
+- Search: full text and image search. Users can find similar products using the image search, or find a products form loose textual descriptions
 
 
 ## The AI bit
@@ -20,6 +21,7 @@ The complete AI powered multi-vendor marketplace platform.
 - Specialized scalable databases: incorporate vector databases from the most reputed providers. Choose from a list of free open source as well as propriotary software.
 
 # Benefits of the AI layer
+- Semantic search: text & image 
 - Customer support: pretrained models with contineous learning capabilities
 - Asset classification including text and media: automatically organize unstructured data and media assets from vendor catalogs, to internal knowledge bases and the in betweens.
 - Analytics and reporting: orient your marketplace's product strategy and development, maximize your vendors performance by providing meaningful insights, and wealth of other use cases.
