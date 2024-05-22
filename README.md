@@ -10,10 +10,10 @@ The complete AI powered multi-vendor marketplace platform.
 - Automatic compliant taxes: integrated tax automation systems, reporting and filing. Available for your marketplace as well as your customers.
 - Permissionned-Dashboards: fine-tune dashboard access to assets (products, order data..) with no-code from your superuser control center. Includes 2 versions: super_admin (your staff) and admin (your customers).
 - Cross-platform: your buyers can reach your marketplace on the web and natively on Android and IOS.
-- One-click deployment: supporting the top cloud providers.
+- One-click launch: fill a form to select the features you need, and hit the Launch button... Boom your marketplace is live.
 - Fully automated catalogue acquisition: delight your vendors with hands-off product catalogue loading from any of their existing online stores at no additional costs. Just collect their store URLs, and watch their products automatically populated on your platform. No more manual data entry.
 - Search: full text and image search. Users can find similar products using the image search, or find a products form loose textual descriptions
-
+- Built-in support content marketing built in beautiful content management interface. Write blogs, upload or link images & videos, and associate thematically similar content with relevant products.
 
 ## The AI bit
 - One-click model integration: enable AI capabilities ranging from language, vision to generative and instruct models with no extra configs. Use the built-in API to select models and perform inference on the fly.
