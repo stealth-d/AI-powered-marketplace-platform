@@ -23,7 +23,8 @@ The complete AI-powered multi-vendor marketplace platform.
 ## Benefits of the AI Layer
 - **Semantic Search**: Text & image (matches by the meaning of the content).
 - **Customer Support**: Pretrained models with continuous learning capabilities.
-- **Asset Classification**: Supports text and media. Automatically organize unstructured data and media assets from vendor catalogs to internal knowledge bases and in between.
+- **Asset Classification**: Supports text and media. Automatically organize unstructured data and media assets from vendor catalogs, to internal knowledge bases, and everything in between.
 - **Analytics and Reporting**: Orient your marketplace's product strategy and development, maximize your vendors' performance by providing meaningful insights, and a wealth of other use cases.
 - **Relevant Recommendations**: Tailor your offering to your vendors' needs and help them do the same with their buyers.
 - **And Much More...**
+
