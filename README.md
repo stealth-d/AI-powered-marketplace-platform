@@ -1,29 +1,29 @@
 # Duket
-The complete AI powered multi-vendor marketplace platform.
+The complete AI-powered multi-vendor marketplace platform.
 
 ## Features
-- Payments: supporting major providers. Control what payment methods are enabled for your customers.
-Vendor Payouts: scheduled and automate transfers to your vendor customers and providers. (relevant if you intend to sell those products for your vendors then pay them)
-Automated global shipping: get rates and delivery date estimates, allow your vendors to purchase shipping labels, schedule shippments and automatically optimaze routes. Supporting 100+ carriers worldwide.
-Fully featured analytics system: for your marketplace and your vendor partners. Includes pre-configured and customizable dashboards.
-Automatic compliant taxes: integrated tax automation systems, reporting and filing. Available for your marketplace as well as your customers.
-Permissionned-Dashboards: fine-tune dashboard access to assets (products, order data..) with no-code from your superuser control center. Includes 2 versions: super_admin (your staff) and admin (your customers).
-Cross-platform: your buyers can reach your marketplace on the web and natively on Android and IOS.
-One-click launch: fill a form to select the features you need, and hit the Launch button... Boom your marketplace is live.
-Fully automated catalogue acquisition: delight your vendors with hands-off product catalogue loading from any of their existing online stores or from a CSV file at no additional costs.
-Build it chat functionality: allow your vendors to stay in touch with their customers right from your marketplace. 
-Search: full text and image search. Users can find similar products using the image search, or find a products form loose textual descriptions
-Built-in support content marketing built in beautiful content management interface. Write blogs, upload or link images & videos, and associate thematically similar content with relevant products.
+- **Payments**: Supporting major providers. Control what payment methods are enabled for your customers.
+- **Vendor Payouts**: Scheduled and automated transfers to your vendor customers and providers. Relevant if you intend to sell those products for your vendors and then pay them.
+- **Automated Global Shipping**: Get rates and delivery date estimates, allow your vendors to purchase shipping labels, schedule shipments, and automatically optimize routes. Supporting 100+ carriers worldwide.
+- **Fully Featured Analytics System**: For your marketplace and your vendor partners. Includes pre-configured and customizable dashboards.
+- **Automatic Compliant Taxes**: Integrated tax automation systems, reporting, and filing. Available for your marketplace as well as your customers.
+- **Permissioned Dashboards**: Fine-tune dashboard access to assets (products, order data, etc.) with no-code from your superuser control center. Includes two versions: super_admin (your staff) and admin (your customers).
+- **Cross-Platform**: Your buyers can reach your marketplace on the web and natively on Android and iOS.
+- **One-Click Launch**: Fill out a form to select the features you need, and hit the Launch button... Boom, your marketplace is live.
+- **Fully Automated Catalogue Acquisition**: Delight your vendors with hands-off product catalog loading from any of their existing online stores or from a CSV file at no additional cost.
+- **Built-in Chat Functionality**: Allow your vendors to stay in touch with their customers right from your marketplace.
+- **Search**: Full-text and image search. Users can find similar products using image search or find products from loose textual descriptions.
+- **Built-in Support for Content Marketing**: Built-in beautiful content management interface. Write blogs, upload or link images & videos, and associate thematically similar content with relevant products.
 
-## The AI part
-One-click model integration: enable AI capabilities ranging from language, vision to generative and instruct models with no extra configs. Use the built-in API to select models and perform inference on the fly. (more on what to do with this below)
-Supporting both CPU and GPU based compute.
-Specialized scalable databases: incorporate vector databases from the most reputed providers. Choose from a list of free open source as well as proprietary software.
+## The AI Part
+- **One-Click Model Integration**: Enable AI capabilities ranging from language, vision to generative and instruct models with no extra configs. Use the built-in API to select models and perform inference on the fly. (more on what to do with this below)
+- **Supporting Both CPU and GPU-Based Compute**.
+- **Specialized Scalable Databases**: Incorporate vector databases from the most reputed providers. Choose from a list of free open-source as well as proprietary software.
 
-## Benefits of the AI layer
-Semantic search: text & image (matches by the meaning of the content)
-Customer support: pretrained models with continuous learning capabilities
-Asset classification:  Supports text and media. Automatically organize unstructured data and media assets from vendor catalogs, to internal knowledge bases and the in between.
-Analytics and reporting: orient your marketplace's product strategy and development, maximize your vendors performance by providing meaningful insights, and wealth of other use cases.
-Relevant Recommendations: tailor your offering to your vendors' needs and help them do the same with their buyers..
-And much more..
+## Benefits of the AI Layer
+- **Semantic Search**: Text & image (matches by the meaning of the content).
+- **Customer Support**: Pretrained models with continuous learning capabilities.
+- **Asset Classification**: Supports text and media. Automatically organize unstructured data and media assets from vendor catalogs to internal knowledge bases and in between.
+- **Analytics and Reporting**: Orient your marketplace's product strategy and development, maximize your vendors' performance by providing meaningful insights, and a wealth of other use cases.
+- **Relevant Recommendations**: Tailor your offering to your vendors' needs and help them do the same with their buyers.
+- **And Much More...**
